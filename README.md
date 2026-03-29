@@ -1,6 +1,6 @@
 # Hi, I'm Siyavuya 👋
 
-I am a final-year BSc Computer Science student at the University of the Free State and an aspiring DevOps Engineer. I am currently focused on building real-world projects and improving my skills in automation, Git, Linux, and Python.
+I am a final-year BSc Computer Science student at the University of the Free State and an aspiring DevOps Engineer. I am currently building real-world automation projects using Python, Git, and Linux while preparing for graduate programmes in 2027.
 
 ## 🚀 What I am currently doing
 - Building my DevOps portfolio
